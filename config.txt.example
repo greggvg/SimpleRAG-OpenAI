@@ -1,0 +1,4 @@
+# Copy this file to config.txt and replace with your actual OpenAI API key
+# DO NOT commit config.txt to version control
+
+your_openai_api_key_here
